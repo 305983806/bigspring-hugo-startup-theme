@@ -1,0 +1,3 @@
+[submodule "exampleSite/themes/bigspring"]
+	path = exampleSite/themes/bigspring
+	url = git@github.com:305983806/bigspring-hugo-startup-theme.git
